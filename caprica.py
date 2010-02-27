@@ -1,5 +1,3 @@
-hi from michael
-
 import sys
 import nltk
 import re
