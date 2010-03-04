@@ -1,4 +1,4 @@
-﻿1,122167512.5,Other,you ready to set this shit up? get on IM or call my cell
+1,122167512.5,Other,you ready to set this shit up? get on IM or call my cell
 1,122167513.2,Other,"Your IM has been sent to my mobile device. When I receive it, I will be able to reply. Thanks for your IM! Want your IMs forwarded to your phone? Click here"
 2,122174879.7,Other,yo... let's play numbnutz
 2,122174879.9,Other,"Your IM has been sent to my mobile device. When I receive it, I will be able to reply. Thanks for your IM! Want your IMs forwarded to your phone? Click here"
