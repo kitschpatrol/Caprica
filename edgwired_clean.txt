@@ -2709,7 +2709,7 @@
 129,120688333.7,Other,grazie lo stesso
 129,120688335.1,Other,ciaoo:)
 129,120688345.4,Edgwired,laters
-130,120688367.4,Other,pi� tardi ce l'avrai ??
+130,120688367.4,Other,pitardi ce l'avrai ??
 130,120688400.3,Edgwired,"nah, it's just a way of saying ""goodbye"
 130,120688438.7,Other,ah ok...ti piace l'inglese eh ??
 130,120688440.8,Other,ehehe
@@ -9564,7 +9564,7 @@
 274,104965526,Other,i saw the TEA header
 274,104965532.7,Other,or at least what you sent to jason
 274,104965593.3,Other,"Our program, SimpleC, is unique because it is designed with the computer novice in mind. SimpleC eases the transition to computer proficiency with step-by-step instructions, single click access, and large intuitive buttons."
-274,104965595.9,Other,"SimpleC� has proven its success in Philadelphia area senior centers by providing easy computer access to those who, up until now, have been afraid or unable to use computers. For more information, please visit our website www.simplec.com Regards, Dan Burciago"
+274,104965595.9,Other,"SimpleC has proven its success in Philadelphia area senior centers by providing easy computer access to those who, up until now, have been afraid or unable to use computers. For more information, please visit our website www.simplec.com Regards, Dan Burciago"
 274,104965616.1,Other,http://purchasing.sunrise-sl.com/requestinfo.asp
 274,104965697.2,Edgwired,sounds fine to me
 274,104965703.9,Other,thanks
@@ -15924,7 +15924,7 @@
 369,109699623.4,Edgwired,making a change isn't all that easy mon frere
 369,109699637.6,Other,mon frere
 369,109699638.5,Other,?
-369,109699653.4,Edgwired,mon fr�re
+369,109699653.4,Edgwired,mon frre
 369,109699667.8,Other,yes
 369,109699669.8,Other,what does it mean
 369,109699676.1,Edgwired,literally?
@@ -22786,7 +22786,7 @@
 497,120688551.1,Other,bottom line... just let me know what you decide
 497,120688572.7,Edgwired,i think Al's gonna balk
 497,120688585.4,Other,i wonder why
-497,120688593.8,Edgwired," Of course, there is such a thing as an inappropriate costume.Plenty of things are sacred, until they are belittled by human neglegence.Halloween is not a day meant to celebrate everything that is wrong with our culture. �Thanksgiving is more along those lines.
+497,120688593.8,Edgwired," Of course, there is such a thing as an inappropriate costume.Plenty of things are sacred, until they are belittled by human neglegence.Halloween is not a day meant to celebrate everything that is wrong with our culture. Thanksgiving is more along those lines.
 497,120693565.4,Edgwired,imri is totally fine with it
 497,120696029,Edgwired,ok
 497,120696030.3,Edgwired,i'm doing it
@@ -25980,7 +25980,7 @@
 556,124227134,Edgwired,k
 556,124227139.7,Other,http://www.deliaonline.com/cookeryschool/howto/how_0000000003.asp
 556,124227178.1,Edgwired,i thought you didn't like her
-556,124227179.8,Other,"add enough cold water to cover them by about 1/2 inch (1 cm). Bring the water up to simmering point, put a timer on for 6 minutes if you like a bit of squidgy in the centre, 7 minutes if you want them cooked through. Then, the most important part is to cool them rapidly under cold running water. Let the cold tap run over them for about 1 minute, then leave them in cold water till they're cool enough to handle � about 2 minutes"
+556,124227179.8,Other,"add enough cold water to cover them by about 1/2 inch (1 cm). Bring the water up to simmering point, put a timer on for 6 minutes if you like a bit of squidgy in the centre, 7 minutes if you want them cooked through. Then, the most important part is to cool them rapidly under cold running water. Let the cold tap run over them for about 1 minute, then leave them in cold water till they're cool enough to handle  about 2 minutes"
 556,124227190.1,Other,no.. that's Rachel Ray
 556,124227196,Other,"god, i could smack that woman"
 556,124227200.1,Edgwired,is this the one that's shot like soft porn?
@@ -26317,10 +26317,10 @@
 562,124306094,Edgwired,did you get it?
 562,124306096.3,Other,yes
 562,124306097.8,Edgwired,ha
-562,124306126.1,Edgwired,"The Society for HandHeld Hushing, aka Coudal.com, made up this PDF with special notes you can print and hand out to anyone who feels that they absolutely need to have a loud cellphone conversation in public about how wasted they got last night or how their husband can�t get it up anymore"
+562,124306126.1,Edgwired,"The Society for HandHeld Hushing, aka Coudal.com, made up this PDF with special notes you can print and hand out to anyone who feels that they absolutely need to have a loud cellphone conversation in public about how wasted they got last night or how their husband cant get it up anymore"
 562,124306143.9,Other,haha
 562,124306148.8,Other,you gonna hand them out?
-562,124306150.1,Edgwired,We wish we�d had one of these on hand on our flight to Seattle last week. From the moment our plane touched down at Sea-Tac until we reached the terminal we had to listen to some women shout at one of her underlings for fifteen minutes about some real estate deal that fell apart. Our strategy of annoying her back by calling one of our friends to loudly complain about how obnoxious she was didn�t work.
+562,124306150.1,Edgwired,We wish wed had one of these on hand on our flight to Seattle last week. From the moment our plane touched down at Sea-Tac until we reached the terminal we had to listen to some women shout at one of her underlings for fifteen minutes about some real estate deal that fell apart. Our strategy of annoying her back by calling one of our friends to loudly complain about how obnoxious she was didnt work.
 562,124306155.3,Edgwired,i could print a few out
 562,124306602.3,Other,maybe a good cowbell song
 562,124306623.2,Edgwired,ha
@@ -26766,7 +26766,7 @@
 573,124662269.3,Edgwired,he tried to get some of our friends mad at us
 573,124662280.4,Edgwired,so they came and asked us about it
 573,124662309.7,Edgwired,and I got mad enough when I heard about it that I sent him this:
-573,124662337.4,Edgwired,"Wes, I had lost the respect that I had for you some time ago, but we're now at a point that I want you to remove yourself from my circle. �Do not talk about me to other people. �Do not tell other people how I may or may not feel because you definitely don't have the ability to speak with my voice. �Do not involve me in your pathetic life. �Do not contact me again. - Mikee"
+573,124662337.4,Edgwired,"Wes, I had lost the respect that I had for you some time ago, but we're now at a point that I want you to remove yourself from my circle. Do not talk about me to other people. Do not tell other people how I may or may not feel because you definitely don't have the ability to speak with my voice. Do not involve me in your pathetic life. Do not contact me again. - Mikee"
 573,124662343.6,Edgwired,so then he responds to *Maria*
 573,124662352.4,Edgwired,and basically tries to push all of her buttons at once
 573,124662357.7,Edgwired,he's delusional
@@ -27098,7 +27098,7 @@
 575,124736297.2,Edgwired,http://news.bbc.co.uk/2/hi/entertainment/4094299.stm
 575,124736311.9,Edgwired,christmas present for Gonzo?
 575,124736319.5,Other,lol
-575,124736398.1,Edgwired,"Pop star Madonna made more money from touring than any other artist this year, taking $125m (�65m) according to Billboard magazine."
+575,124736398.1,Edgwired,"Pop star Madonna made more money from touring than any other artist this year, taking $125m (65m) according to Billboard magazine."
 575,124736434.7,Other,jeebus
 575,124736973.2,Edgwired,http://engadget.com/entry/1234000583023666/
 575,124737005.1,Other,haha
@@ -28714,7 +28714,7 @@
 609,133742827.9,Edgwired,that's an interesting article
 609,133742847,Edgwired,man
 609,133742856,Edgwired,I should go into the health care industry
-609,133742874.7,Edgwired,"Over the next 25 years, a number of factors�such as the global increase in the over-65-aged population�will have pushed medical resources to the limit. Efficiency of healthcare professionals is in turn becoming ever more vital"
+609,133742874.7,Edgwired,"Over the next 25 years, a number of factorssuch as the global increase in the over-65-aged populationwill have pushed medical resources to the limit. Efficiency of healthcare professionals is in turn becoming ever more vital"
 609,133743013.9,Edgwired,aight burc
 609,133743019.8,Edgwired,time for my nappy nap
 609,133743026.4,Edgwired,see u at 7:30ishy
@@ -28943,7 +28943,7 @@
 612,134163539.6,Edgwired,it makes sense
 612,134163571.2,Other,http://apple.weblogsinc.com/entry/1234000620034924/
 612,134163730.5,Edgwired,http://www.gizmodo.com/gadgets/digital-cameras/jvc/jvc-everio-gzmc500-3ccd-hard-disk-camera-031863.php
-612,134163772.2,Other,"if you�ve got the 1,500� to spend on it"
+612,134163772.2,Other,"if youve got the 1,500 to spend on it"
 612,134163846.3,Other,http://griffintechnology.com/products/earjams/
 612,134163847.5,Other,lol
 612,134163870.6,Edgwired,figures. mine suck
@@ -39133,7 +39133,7 @@
 795,106235916.1,Edgwired,best for you two
 795,106235935.5,Edgwired,lately i've been typing like russian
 795,106235942.4,Edgwired,no articles
-795,106235943.8,Other," had so much fun with you... �I don't regret any of it. �And I'll be damned if I'll let anything get in the way of hanging out with you again. �"
+795,106235943.8,Other," had so much fun with you... I don't regret any of it. And I'll be damned if I'll let anything get in the way of hanging out with you again. "
 795,106235950,Edgwired,heh
 795,106235951.1,Edgwired,good
 795,106235956.8,Other,RUSSIAN
@@ -39167,7 +39167,7 @@
 795,106236045.3,Other,in three for me
 795,106236048.9,Edgwired,right?
 795,106236058.4,Edgwired,OH MY GOD
-795,106236065.3,Other,"On a side note: yeah I took care ""of myself"" but damn!... my balls still hurt! �*places frozen peas of crotch* Soon... very soon... we'll do more fun things. sleep well, kitten.
+795,106236065.3,Other,"On a side note: yeah I took care ""of myself"" but damn!... my balls still hurt! *places frozen peas of crotch* Soon... very soon... we'll do more fun things. sleep well, kitten.
 795,106236072.9,Edgwired,LOL
 795,106236076.8,Other,:D
 795,106236083.5,Edgwired,i like his smile
@@ -46439,7 +46439,7 @@
 862,110855618.6,Other,her version of TY
 862,110855619.9,Other,TR
 862,110855626.2,Other,wrote her and said this:
-862,110855640.9,Other,"Yeah, so I don't know if I told you, but I married my honey!��I'm so happy about that one."
+862,110855640.9,Other,"Yeah, so I don't know if I told you, but I married my honey!I'm so happy about that one."
 862,110855661.5,Edgwired,there are 36 versions of it on the iTunes Music Store
 862,110855665.2,Other,I know
 862,110855672.3,Other,its the righteous brothers
